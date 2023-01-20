@@ -23,6 +23,7 @@ chat.
 
 Página onde o usuário pode alterar seus dados cadastrais, informando a sua imagem de avatar, 
 nome, e-mail, cargo e descrição do perfil.
+
 ---
 ## Detalhes
 
